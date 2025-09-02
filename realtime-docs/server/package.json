@@ -1,0 +1,28 @@
+{
+  "name": "realtime-docs-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "description": "",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@teamwork/websocket-json-stream": "^2.0.0",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0",
+    "rich-text": "^4.1.0",
+    "sharedb": "^5.2.2",
+    "sharedb-mongo": "^5.0.0",
+    "uuid": "^11.1.0",
+    "ws": "^8.18.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
