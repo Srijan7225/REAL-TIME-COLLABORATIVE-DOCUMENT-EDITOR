@@ -48,4 +48,4 @@ Works smoothly on desktops and laptops.
 
 #OUTPUT:
 
-
+<img width="1919" height="1011" alt="Image" src="https://github.com/user-attachments/assets/2bb343b9-fb7b-4384-ab14-ce6413402084" />
